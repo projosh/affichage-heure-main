@@ -2,21 +2,12 @@
     font-weight: bold;
     color: red;
 }
-/* .section{
-    display: grid;
-    justify-content: center;
-    align-items: center;
-}
-.section--full--height{
-    height: 100vh;
-} */
+
 .container{
     width: 80%;
     margin: 0 auto;
 }
-/* .hour{
-    font-size: 10rem;
-} */
+
 *{
     font-family: sans-serif;
 }
