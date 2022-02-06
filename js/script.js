@@ -24,6 +24,7 @@ function setHour(){
     $hour.innerHTML = hour
 }
 
+
 // 1 - Vérifier que cette chaine de caractère contient un caractére
 // 2 - Définir les heures 
 // 3 - Définir les minutes
